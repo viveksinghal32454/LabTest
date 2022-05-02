@@ -1,1 +1,3 @@
 This is Text2.txt file.It has been added, commited and pushed on github in Lab Test Repo
+
+This is edited file from github remote
